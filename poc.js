@@ -1,1 +1,1 @@
-alert('CSP Test - External Script Loaded');
+alert(document.domain);
